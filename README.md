@@ -1,4 +1,3 @@
-### Hi there 👋
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rzvxa&theme=gruvbox) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rzvxa&theme=gruvbox) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rzvxa&theme=gruvbox) 

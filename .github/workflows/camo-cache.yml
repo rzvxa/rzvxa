@@ -1,0 +1,11 @@
+name: Clean Camo Action
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: kevincobain2000/action-camo-purge@v1
